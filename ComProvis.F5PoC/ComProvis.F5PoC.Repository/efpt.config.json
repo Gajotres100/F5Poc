@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"F5Context","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"","ProjectRootNamespace":"ComProvis.F5PoC.Repository","SelectedToBeGenerated":0,"Tables":[{"HasPrimaryKey":true,"Name":"dbo.User"}],"UseDatabaseNames":false,"UseFluentApiOnly":false,"UseHandleBars":false,"UseInflector":true}

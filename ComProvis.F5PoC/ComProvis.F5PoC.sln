@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComProvis.F5PoC.Api", "ComProvis.F5PoC.Api\ComProvis.F5PoC.Api.csproj", "{463EDC0C-B4D2-4FF3-B497-ECAD7605A02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComProvis.F5PoC.Repository", "ComProvis.F5PoC.Repository\ComProvis.F5PoC.Repository.csproj", "{10E73538-AF2F-4BA5-AFA6-AA1D74C2D62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463EDC0C-B4D2-4FF3-B497-ECAD7605A02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463EDC0C-B4D2-4FF3-B497-ECAD7605A02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463EDC0C-B4D2-4FF3-B497-ECAD7605A02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463EDC0C-B4D2-4FF3-B497-ECAD7605A02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E73538-AF2F-4BA5-AFA6-AA1D74C2D62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E73538-AF2F-4BA5-AFA6-AA1D74C2D62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E73538-AF2F-4BA5-AFA6-AA1D74C2D62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E73538-AF2F-4BA5-AFA6-AA1D74C2D62A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B4D0EA-E26A-494E-8406-831EA51D76A6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.dev.comcloud.com:8080/tfs/netcore
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ComProvis.F5PoC.Api\\ComProvis.F5PoC.Api.csproj
+		SccProjectName1 = ComProvis.F5PoC.Api
+		SccLocalPath1 = ComProvis.F5PoC.Api
+		SccProjectUniqueName2 = ComProvis.F5PoC.Repository\\ComProvis.F5PoC.Repository.csproj
+		SccProjectName2 = ComProvis.F5PoC.Repository
+		SccLocalPath2 = ComProvis.F5PoC.Repository
+	EndGlobalSection
+EndGlobal
